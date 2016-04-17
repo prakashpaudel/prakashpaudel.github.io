@@ -3,11 +3,11 @@ import React, { PropTypes } from 'react'
 const ProjectItem = ( { img, title, description, url } ) => {
 	return (
 		<div className="project-item">
-			<img className="project-img" src={img} />
+			<a href={url} target="_blank"><img className="project-img" src={img} /></a>
 			<div className="project-text-block">
 				<h2 className="heading">{title}</h2>
 				<p className="subheading">{description}</p>
-				<a href={url} className="btn btn-success">Visit site</a>
+				<a href={url} target="_blank" className="btn btn-success">Visit site</a>
 			</div>
 		</div>
 	)
