@@ -54,7 +54,7 @@ class Main extends Component {
 						</div>
 						<div className="tool-item">
 							<h5 className="tool-heading">JavaScript</h5>
-							<p>My Javascript library of choice is <a href="https://facebook.github.io/react">React.js</a>. It's modular component structure make it perfect for my workflow. I also regularly use JQuery, AJAX, Redux, React-Router, and a slue of other complementary libraries.</p>
+							<p>My Javascript library of choice is <a href="https://facebook.github.io/react">React.js</a>. It's modular component structure make it perfect for my workflow. I also regularly use JQuery, AJAX, Redux, React-Router, and a slew of other complementary libraries.</p>
 						</div>
 						<div className="tool-item">
 							<h5 className="tool-heading">Others</h5>
