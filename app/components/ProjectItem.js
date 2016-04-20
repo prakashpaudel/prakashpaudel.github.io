@@ -3,12 +3,17 @@ import React, { PropTypes } from 'react'
 const ProjectItem = ( { img, title, description, url } ) => {
 	return (
 		<div className="project-item">
-			<a href={url} target="_blank"><img className="project-img" src={img} /></a>
-			<div className="project-text-block">
-				<h2 className="heading">{title}</h2>
-				<p className="subheading">{description}</p>
-				<a href={url} target="_blank" className="btn btn-success">Visit site</a>
-			</div>
+			<a href={url}>
+				<div className="project-item-inner">
+					<img className="project-img" src={img} />
+					<div className="project-item-text">
+						<div className="project-item-text-inner">
+							<h4 className="title">{title}</h4>
+							{/*<a href={url} target="_blank" className="btn btn-success">Visit site</a>*/}
+						</div>
+					</div>
+				</div>
+			</a>
 		</div>
 	)
 }
