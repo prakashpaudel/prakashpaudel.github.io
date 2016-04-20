@@ -1,9 +1,21 @@
 body {
 	font-family: 'Source Sans Pro', sans-serif;
+	height: 100%;
+}
+
+#app {
+	height: 100%;
+}
+
+html {
+	height: 100%;
 }
 
 .main-container {
 	background-color: rgb(250,250,250);
+	display: flex;
+	flex-direction: column;
+	height: 100%;
 	
 	&.has-scrolled {
 		.header{
@@ -31,7 +43,6 @@ body {
 				opacity: 0;
 				height: 0;
 			}
-			
 		}
 		
 		.section-container {
@@ -45,6 +56,7 @@ body {
 		flex-wrap: wrap;
 		justify-content: center;
 		align-items: center;
+		flex: 1 0 auto;
 		
 		.header-main{
 			width: 624px;
@@ -96,6 +108,7 @@ body {
 	.section-container{
 		max-width: 624px;
 		margin: auto auto;
+		flex: 1 0 auto;
 		
 		.heading{
 			font-weight: bold;
@@ -124,12 +137,12 @@ body {
 					height: 150px;
 					margin-right: 20px;
 				}
-				
 			}
 			
 			&.portfolio-section {
+				margin: -10px;
 				.project-item{
-					padding: 15px;
+					padding: 10px;
 					width: 50%;
 
 					.project-item-inner {
@@ -164,6 +177,7 @@ body {
 								height: 100%;
 								width: 100%;
 								display: flex;
+								flex-direction: column;
 								justify-content: center;
 								align-items: center;
 								.title {
@@ -174,7 +188,16 @@ body {
 						}
 					}
 				}
-				
+			}
+			&.tools-section{
+				justify-content: space-between;
+				.tool-item{
+					width: 48%;
+					.tool-heading{
+						font-weight: bold;
+						font-size: 16px;
+					}
+				}
 			}
 		}
 	}

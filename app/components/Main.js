@@ -42,6 +42,25 @@ class Main extends Component {
 							<ProjectItem key={project.title} {...project} />
 						)}
 					</div>
+					<h3 className="heading">Tools</h3>
+					<div className="section tools-section">
+						<div className="tool-item">
+							<h5 className="tool-heading">HTML</h5>
+							<p>I'm well versed in HTML5, including the canvas, multimedia tools and integration across browsers. All my projects use responsive design, primarily through <a href="http://getbootstrap.com">Twitter Bootstrap</a> and <a href="http://www.w3schools.com/css/css3_flexbox.asp">CSS3 Flexbox</a>.</p>
+						</div>
+						<div className="tool-item">
+							<h5 className="tool-heading">CSS</h5>
+							<p>For styling pages, I primarily use SASS, plain-old CSS, or LESS. I know the ins and outs of CSS3, including Flexbox (which is awesome!) and can flip Photoshop or Sketch mockups into beautiful webpages in an instant.</p>
+						</div>
+						<div className="tool-item">
+							<h5 className="tool-heading">JavaScript</h5>
+							<p>My Javascript library of choice is <a href="https://facebook.github.io/react">React.js</a>. It's modular component structure make it perfect for my workflow. I also regularly use JQuery, AJAX, Redux, React-Router, and a slue of other complementary libraries.</p>
+						</div>
+						<div className="tool-item">
+							<h5 className="tool-heading">Others</h5>
+							<p>I'm also experienced with PHP (including the Yii framework) and WordPress on the front-end. On the back-end, I'm familiar with Node.js, Express.js, LAMP, MySQL, and firebase.</p>
+						</div>
+					</div>
 				</div>
 				<footer className="footer row">
 					<p><i className="fa fa-copyright" aria-hidden="true"></i> {(new Date()).getFullYear()} Prakash Paudel</p>
