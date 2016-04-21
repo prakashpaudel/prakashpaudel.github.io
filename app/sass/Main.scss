@@ -53,29 +53,46 @@ html, body, #app {
 		justify-content: center;
 		align-items: center;
 		flex: 0 0 auto;
-		
+
 		.header-main{
-			width: 624px;
+			width: 100%;
 			margin-top: 30px;
 			display: flex;
-			justify-content: space-between;
+			justify-content: space-around;
 			align-items: center;
 			margin-bottom: 10px;
 			
 			transition: margin-top .25s ease-in-out;
+
+			@media (min-width: $sm){
+				width: 624px;
+				justify-content: space-between;
+			}
 			
 			.heading{
 				font-weight: bold;
 				font-size: 30px;
 				margin-top: 0px;
 				margin-bottom: 0px;
+
+				span.last-name{
+					display: none;
+					@media (min-width: $sm){
+						display: initial;
+					}
+				}
 			}
 			a {
 				text-decoration: none;
 				font-size: 16px;
 				color: darken($gray-text, 30%);
-				padding: 0 40px;
+				// padding: 0 20px;
 				transition: padding .25s ease-in-out;
+
+				@media (min-width: $sm){
+					padding: 0 40px;
+				}
+
 				&:hover{
 					color: $gray-text;
 					transition: color .2s ease-out;
@@ -102,9 +119,13 @@ html, body, #app {
 	}
 	
 	.section-container{
-		max-width: 624px;
+		max-width: 300px;
 		margin: auto auto;
 		flex: 1 0 auto;
+
+		@media (min-width: $sm){
+			max-width: 624px;
+		}
 		
 		.heading{
 			font-weight: bold;
@@ -127,19 +148,39 @@ html, body, #app {
 				justify-content: center;
 				align-items: center;
 				flex-wrap: nowrap;
+				flex-direction: column;
+
+				@media (min-width: $sm){
+					flex-direction: row;
+				}
 				
 				img.profile-pic {
-					width: 150px;
-					height: 150px;
+					width: 120px;
+					height: 120px;
 					margin-right: 20px;
+					margin-bottom: 20px;
+					@media (min-width: $sm){
+						width: 150px;
+						height: 150px;
+						margin-bottom: 0px;
+					}
+
 				}
 			}
 			
 			&.portfolio-section {
-				margin: -10px;
+
+				@media (min-width: $sm){
+						margin: -10px;
+					}
 				.project-item{
-					padding: 10px;
-					width: 50%;
+					padding-bottom: 20px;
+					width: 100%;
+
+					@media (min-width: $sm){
+						padding: 10px;
+						width: 50%;
+					}
 
 					.project-item-inner {
 						position: relative;
@@ -188,7 +229,10 @@ html, body, #app {
 			&.tools-section{
 				justify-content: space-between;
 				.tool-item{
-					width: 48%;
+					@media (min-width: $sm){
+						width: 48%;
+					}
+
 					.tool-heading{
 						font-weight: bold;
 						font-size: 16px;
@@ -198,21 +242,26 @@ html, body, #app {
 		}
 	}
 	footer {
-		padding-top: 29px;
-		padding-bottom: 29px;
-		// background-color: $gray-bg;
+		height: 70px;
 		display:flex;
-		padding-left: 30px;
-		padding-right: 30px;
-		justify-content: center;
+		justify-content: space-between;
+		align-items: center;
 		p {
 			color: $gray-text;
 			margin-bottom: 0px;
-			margin-left: 20px;
-			margin-right: 20px;
-		}
-		.fa-heart {
-			// color: orange;
+			width: 100%;
+			text-align: center;
+			@media (min-width: $sm){
+				width: 40%;
+				text-align: right;
+			}
+			&:last-child{
+				text-align: left;
+				display: none;
+				@media (min-width: $sm){
+					display: initial;
+				}
+			}
 		}
 	}
 }

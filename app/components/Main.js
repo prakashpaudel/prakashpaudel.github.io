@@ -24,7 +24,7 @@ class Main extends Component {
 				<div className="header row">
 					<div className="header-main">
 						<a href="mailto:total.prakash@gmail.com" target="_blank">Contact</a>
-							<h1 className="heading">prakash paudel</h1>
+							<h1 className="heading">prakash <span className="last-name">paudel</span></h1>
 						<a href="/assets/prakashpaudelresume.pdf" target="_blank">Resume</a>
 					</div>
 					<p className="subheading text-center">Front-End Developer</p>
