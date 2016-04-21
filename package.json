@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server",
     "c9": "webpack-dev-server --port $PORT --host $IP",
-    "production": "webpack --config webpack-production.config.js --progress -p",
+    "prod": "webpack --config webpack-production.config.js --progress -p",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
