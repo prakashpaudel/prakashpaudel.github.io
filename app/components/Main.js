@@ -11,8 +11,12 @@ class Main extends Component {
 		window.removeEventListener('scroll', this.handleScroll);
 	}
 	handleScroll(e){
-		(document.body.scrollTop > 0) ? document.getElementById("main").classList.add("has-scrolled")
-																	: document.getElementById("main").classList.remove("has-scrolled")
+		// console.log(document.getElementsByTagName('html')[0].scrollTop);
+		if (document.getElementsByTagName('html')[0].scrollTop > 0 || document.body.scrollTop > 0) {
+			document.getElementById("main").classList.add("has-scrolled")
+		} else {
+			document.getElementById("main").classList.remove("has-scrolled")
+		}
 	}
 	render() {
 		return (

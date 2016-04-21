@@ -1,5 +1,6 @@
 var HtmlWebpackPlugin = require('html-webpack-plugin')
 var webpack = require('webpack')
+var autoprefixer = require('autoprefixer')
 
 var HTMLWebpackPluginConfig = new HtmlWebpackPlugin({
   template: __dirname + '/app/index.html',
@@ -22,9 +23,12 @@ module.exports = {
       },
       {
         test: /\.scss$/,
-        loaders: ["style", "css", "sass"]
+        loaders: ["style","css","postcss", "sass"]
       }
     ]
+  },
+  postcss: function () {
+    return [autoprefixer({ browsers: ['last 2 versions'] })]
   },
   output: {
     path: __dirname,
