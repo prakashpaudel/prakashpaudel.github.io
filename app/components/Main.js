@@ -30,7 +30,7 @@ class Main extends Component {
 					<p className="subheading text-center">Front-End Developer</p>
 					<div className="social-links">
 						<a href="http://github.com/t0tal" target="_blank"><i className="fa fa-github" aria-hidden="true"></i></a>
-						<a href="http://linkedin.com/in/ppaudel" target="_blank"><i className="fa fa-linkedin" aria-hidden="true"></i></a>
+						<a href="/assets/PrakashPaudelResume.pdf" target="_blank"><i className="fa fa-linkedin" aria-hidden="true"></i></a>
 						<a href="mailto:total.prakash@gmail.com" target="_blank"><i className="fa fa-envelope" aria-hidden="true"></i></a>
 					</div>
 				</div>
