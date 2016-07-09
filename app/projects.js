@@ -1,9 +1,21 @@
 export default [
 	{
+		title: "20spokes",
+		img: "/assets/img/20spokes.png",
+		url: "http://www.20spokes.com/",
+		description: "TBD"
+	},
+	{
 		title: "LumenEd",
 		img: "/assets/img/lumened-home.png",
 		url: "http://lumened.org",
 		description: "This is the fourth iteration of a website I've built for LumenEd. This version was built using Yii, a PHP MVC framework as the foundation. The frontend also includes Bootstrap, JQuery, other related libraries and a bunch of custom HTML/CSS/JS."
+	},
+	{
+		title: "Lokava Software",
+		img: "/assets/img/ls.png",
+		url: "http://www.lokavasoftware.com/",
+		description: "TBD"
 	},
 	{
 		title: "This Site",
@@ -12,23 +24,11 @@ export default [
 		description: "TBD"
 	},
 	{
-		title: "Acoustik Musik",
-		img: "/assets/img/am.png",
-		url: "http://www.acoustikmusik.com/",
-		description: "TBD"
-	},
-	{
 		title: "Video Pen Pals",
 		subtitle: "Login: guest; password: guest",
 		img: "/assets/img/vpp.png",
 		url: "http://lumened.org/login",
 		description: "Video Pen Pals is a platform for connecting classrooms across the world through video. It's a fully featured Web App with video sharing, messaging, notifications and user management. It's built with PHP, MySQL, HTML, CSS(LESS), JS, WebSocket, Bootstrap, and other related tools. You can check it out using a guest account: lumened.guest@gmail.com - password: guest"
-	},
-	{
-		title: "The Synapse Magazine",
-		img: "/assets/img/synapse.png",
-		url: "http://www.thesynapsemagazine.org/",
-		description: "TBD"
 	},
 	{
 		title: "Weather App",

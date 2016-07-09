@@ -38,7 +38,7 @@ class Main extends Component {
 					<h3 className="heading">About</h3>
 					<div className="section about-section">
 						<img src="/assets/img/pp.jpg" className="profile-pic img-circle" />
-						<p className="">Hey there! I'm a frontend developer based in Chicago. Until recently I was working on my own <a href="http://lumened.org" target="_blank">startup</a>. I graduated with honors from Oberlin College, Ohio in Math, Economics and CS. Today, I'm looking for my next adventure.</p>
+						<p className="">Hey there! I'm a developer based in Chicago. I build awesome web and mobile apps for <a href="http://www.20spokes.com" target="_blank">20spokes</a>, mostly with React and Rails. Until recently I was working on my own startup. I also freelance and build things just for fun.</p>
 					</div>
 					<h3 className="heading">Work</h3>
 					<div className="section portfolio-section">
