@@ -3,29 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://prakashpaudel.com/posts/hello-world/</loc>
-    <lastmod>2018-05-10T16:31:28+01:00</lastmod>
+    <loc>https://prakashpaudel.com/blog/hello-world/</loc>
+    <lastmod>2018-05-10T17:09:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://prakashpaudel.com/categories/</loc>
+    <loc>https://prakashpaudel.com/about/</loc>
+    <lastmod>2018-05-10T06:42:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prakashpaudel.com/blog/</loc>
+    <lastmod>2015-08-22T06:42:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prakashpaudel.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://prakashpaudel.com/posts/</loc>
-    <lastmod>2018-05-10T16:31:28+01:00</lastmod>
+    <loc>https://prakashpaudel.com/</loc>
+    <lastmod>2018-05-10T17:09:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://prakashpaudel.com/</loc>
-    <lastmod>2018-05-10T16:31:28+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://prakashpaudel.com/tags/</loc>
+    <loc>https://prakashpaudel.com/tags/</loc>
     <priority>0</priority>
   </url>
   
