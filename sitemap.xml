@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://prakashpaudel.com/bookshelf/</loc>
+    <lastmod>2018-05-15T11:22:25+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://prakashpaudel.com/blog/googles-phone-ai/</loc>
     <lastmod>2018-05-13T12:12:11+01:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://prakashpaudel.com/</loc>
-    <lastmod>2018-05-13T12:12:11+01:00</lastmod>
+    <lastmod>2018-05-15T11:22:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
