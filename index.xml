@@ -6,10 +6,21 @@
     <description>Recent content on Prakash Paudel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jul 2018 17:09:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Aug 2018 11:22:25 +0100</lastBuildDate>
     
 	<atom:link href="https://prakashpaudel.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bookshelf</title>
+      <link>https://prakashpaudel.com/bookshelf/</link>
+      <pubDate>Wed, 01 Aug 2018 11:22:25 +0100</pubDate>
+      
+      <guid>https://prakashpaudel.com/bookshelf/</guid>
+      <description> I was inspired by patrick collison who shared a virtual bookshelf reflecting his real bookshelf.
+I don&amp;rsquo;t maintain a real life bookshelf since I move around often. But, here&amp;rsquo;s some books that I&amp;rsquo;ve read recently. I&amp;rsquo;ve bolded the ones I find especially great. These are in no specific order.
+2017  1984, Orwell Sapiens, Hariri Kafka By the Sea, Murakami Norwegian Wood, Murakami Vagabonding, Potts Steppenwolf, Hesse Siddhartha, Hesse The Autobiography of Gucci Mane Brave New World, Huxley Selfish Gene, Dawkins The Travelers, Pavone Asimov Short stories, Asimov  2018  Anti-fragile, Taleb Demian, Hesse Heart of Darkness, Conrad The Communist Manifesto, Marx The Wind-Up Bird Chronicle, Murakami  </description>
+    </item>
     
     <item>
       <title>A World Cup To Remember: 2002</title>
@@ -30,17 +41,6 @@ I was 8 years old in 2002.</description>
       <guid>https://prakashpaudel.com/blog/arsene-wenger/</guid>
       <description>Last week, Arsène Wenger managed his last game for Arsenal Football Club. He&amp;rsquo;s been manager of the team for 22 years. I want to write a bit about what it&amp;rsquo;s been like to follow Arsenal and Monsieur Wenger all these years.
 As a young kid growing up in Asia, becoming an Arsenal fan was by chance. I didn&amp;rsquo;t have any connection to the club. I just watched whatever match was on TV.</description>
-    </item>
-    
-    <item>
-      <title>Bookshelf</title>
-      <link>https://prakashpaudel.com/bookshelf/</link>
-      <pubDate>Tue, 15 May 2018 11:22:25 +0100</pubDate>
-      
-      <guid>https://prakashpaudel.com/bookshelf/</guid>
-      <description> I was inspired by patrick collison who shared a virtual bookshelf reflecting his real bookshelf.
-I don&amp;rsquo;t maintain a real life bookshelf since I move around often. But, here&amp;rsquo;s some books that I&amp;rsquo;ve read recently. I&amp;rsquo;ve bolded the ones I find especially great. These are in no specific order.
-2017  1984, Orwell Sapiens, Hariri Kafka By the Sea, Murakami Norwegian Wood, Murakami Vagabonding, Potts Steppenwolf, Hesse Siddhartha, Hesse The Autobiography of Gucci Mane Brave New World, Huxley Selfish Gene, Dawkins The Travelers, Pavone Asimov Short stories, Asimov  2018  Anti-fragile, Taleb Damian, Hesse  </description>
     </item>
     
     <item>
