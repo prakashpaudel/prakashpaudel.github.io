@@ -23,13 +23,13 @@
   </url>
   
   <url>
-    <loc>https://prakashpaudel.com/blog/hello-world/</loc>
-    <lastmod>2018-05-10T17:09:14-05:00</lastmod>
+    <loc>https://prakashpaudel.com/</loc>
+    <lastmod>2018-05-10T06:42:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://prakashpaudel.com/about/</loc>
-    <lastmod>2018-05-10T06:42:21-07:00</lastmod>
+    <loc>https://prakashpaudel.com/blog/hello-world/</loc>
+    <lastmod>2018-04-21T17:09:14-05:00</lastmod>
   </url>
   
   <url>
@@ -39,12 +39,6 @@
   
   <url>
     <loc>https://prakashpaudel.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://prakashpaudel.com/</loc>
-    <lastmod>2018-08-01T11:22:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
