@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prakash Paudel</title>
@@ -6,11 +6,7 @@
     <description>Recent content on Prakash Paudel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 06:42:21 -0700</lastBuildDate>
-    
-	<atom:link href="https://prakashpaudel.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 10 May 2018 06:42:21 -0700</lastBuildDate><atom:link href="https://prakashpaudel.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bookshelf</title>
       <link>https://prakashpaudel.com/bookshelf/</link>
@@ -19,7 +15,7 @@
       <guid>https://prakashpaudel.com/bookshelf/</guid>
       <description>I was inspired by patrick collison who shared a virtual bookshelf reflecting his real bookshelf.
 I don&amp;rsquo;t maintain a real life bookshelf since I move around often. But, here&amp;rsquo;s some books that I&amp;rsquo;ve read recently. I&amp;rsquo;ve bolded the ones I find especially great. These are in no specific order.
- 1984, Orwell Sapiens, Hariri Kafka By the Sea, Murakami Norwegian Wood, Murakami Vagabonding, Potts Steppenwolf, Hesse Siddhartha, Hesse The Autobiography of Gucci Mane Brave New World, Huxley Selfish Gene, Dawkins The Travelers, Pavone Asimov Short stories, Asimov Anti-fragile, Taleb Demian, Hesse Heart of Darkness, Conrad The Communist Manifesto, Marx The Wind-Up Bird Chronicle, Murakami Bullshit Jobs, Graeber A Brief History Of Time, Hawkins The Count of Monte Cristo, Dumas Guns, Sails and Empires, Cipolla Debt: The first 5,000 years, Graeber* Skin in the Game, Taleb  *Didn&amp;rsquo;t finish for whatever reason, but still was notable</description>
+ 1984, George Orwell Sapiens, Yuval Harari Kafka By the Sea, Haruki Murakami Norwegian Wood, Haruki Murakami Vagabonding, Rolf Potts Steppenwolf, Hermann Hesse Siddhartha, Hermann Hesse The Autobiography of Gucci Mane Brave New World, Aldous Huxley Selfish Gene, Richard Dawkins The Travelers, Chris Pavone Asimov Short stories, Isaac Asimov Anti-fragile, Nassim Taleb Demian, Hermann Hesse Heart of Darkness, Joseph Conrad The Communist Manifesto, Karl Marx The Wind-Up Bird Chronicle, Haruki Murakami Bullshit Jobs, David Graeber A Brief History Of Time, Stephen Hawking The Count of Monte Cristo, Alexandre Dumas Guns, Sails and Empires, Carlo Cipolla Debt: The first 5,000 years, David Graeber Skin in the Game, Nassim Taleb The French Revolution and What Went Wrong, Stephen Clarke My Life in Red and White, Arsène Wenger  </description>
     </item>
     
     <item>
@@ -50,7 +46,7 @@ As a young kid growing up in Asia, becoming an Arsenal fan was by chance. I didn
       
       <guid>https://prakashpaudel.com/blog/googles-phone-ai/</guid>
       <description>Last week, google showed off a really cool demo phone call. Google&amp;rsquo;s AI called a hair salon to setup an appointment. It went something like this:
-AI: Hello, I&#39;d like to make a hair appointment for my client for, umm, the Wednesday the 7th for 12pm. Salon (Actual person): Ok. Give me oneee second. AI: mmhhmm Salon: We don&#39;t have anything for 12, we do have a 1:15. AI: Umm, I&#39;m looking for something between 10-12 actually.</description>
+AI: Hello, I&amp;#39;d like to make a hair appointment for my client for, umm, the Wednesday the 7th for 12pm. Salon (Actual person): Ok. Give me oneee second. AI: mmhhmm Salon: We don&amp;#39;t have anything for 12, we do have a 1:15. AI: Umm, I&amp;#39;m looking for something between 10-12 actually.</description>
     </item>
     
     <item>

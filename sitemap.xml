@@ -1,50 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://prakashpaudel.com/bookshelf/</loc>
     <lastmod>2018-08-01T11:22:25+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prakashpaudel.com/blog/a-world-cup-to-remember-2002/</loc>
     <lastmod>2018-07-10T17:09:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prakashpaudel.com/blog/arsene-wenger/</loc>
     <lastmod>2018-05-18T06:51:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prakashpaudel.com/blog/googles-phone-ai/</loc>
     <lastmod>2018-05-13T12:12:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prakashpaudel.com/</loc>
     <lastmod>2018-05-10T06:42:21-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prakashpaudel.com/blog/hello-world/</loc>
     <lastmod>2018-04-21T17:09:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prakashpaudel.com/blog/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prakashpaudel.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://prakashpaudel.com/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
